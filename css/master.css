@@ -1,0 +1,12 @@
+body {
+  background: rgb(121,121,121);
+  background: radial-gradient(circle, rgba(121,121,121,1) 0%, rgba(61,61,61,1) 100%);
+}
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+h1 {
+  font-size: 3rem;
+  color: #fff;
+}
